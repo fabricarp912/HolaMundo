@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BonjourLeMonde</string>
+
+    <string name="ejemplo1">Bonjour, c est le premier exemple</string>
+    <string name="ejemplo2">Bonjour, c est le deuxième exemple</string>
+</resources>
